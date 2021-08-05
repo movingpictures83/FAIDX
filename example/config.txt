@@ -1,0 +1,2 @@
+Prefix plugins/FAIDX/example
+Plugin FAIDX inputfile parameters.txt outputfile contigs.faidx.fasta

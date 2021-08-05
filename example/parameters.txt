@@ -1,0 +1,3 @@
+fastafile contigs.fasta
+lo 330
+hi 340
